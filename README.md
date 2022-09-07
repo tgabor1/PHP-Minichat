@@ -1,5 +1,3 @@
-# minichat
-
 ## Réalisation d'un Minichat en PHP/MySQL
 Adaptation de l'ancien Fil rouge du cours d'Openclassrooms __"Concevez votre site web avec PHP et MySQL"__
 ## Objectifs
